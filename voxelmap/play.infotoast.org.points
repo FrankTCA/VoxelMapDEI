@@ -24,7 +24,6 @@ name:goat-mansion,x:-399,z:-256,y:66,enabled:true,red:0.2497378,green:0.20534897
 name:goat-lake,x:-402,z:-243,y:62,enabled:true,red:0.55734676,green:0.800609,blue:0.04029894,suffix:,world:world,dimensions:overworld#
 name:amc,x:1476,z:235,y:73,enabled:true,red:0.8649982,green:0.16283774,blue:0.7624408,suffix:,world:world,dimensions:overworld#
 name:krum,x:878,z:227,y:72,enabled:true,red:0.93033767,green:0.7852532,blue:0.14629209,suffix:,world:world,dimensions:overworld#
-name:Latest Death,x:485,z:-467,y:71,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:world,dimensions:overworld#
 name:sheapsburg,x:764,z:539,y:82,enabled:true,red:0.31000096,green:5.565882E-4,blue:0.5176567,suffix:,world:world,dimensions:overworld#
 name:beemland,x:-24,z:-945,y:69,enabled:true,red:0.2800203,green:0.7711724,blue:0.48950636,suffix:,world:world,dimensions:overworld#
 name:krum,x:291,z:-479,y:87,enabled:true,red:0.5522588,green:0.5141421,blue:0.37208235,suffix:,world:world,dimensions:overworld#
@@ -39,3 +38,4 @@ name:eddie,x:-714,z:-3055,y:63,enabled:true,red:0.65599877,green:0.6786008,blue:
 name:ashton,x:-765,z:-3037,y:92,enabled:true,red:0.3399548,green:0.4904458,blue:0.78183097,suffix:,world:world,dimensions:overworld#
 name:oak,x:1376,z:-1192,y:80,enabled:true,red:0.37328017,green:0.39312446,blue:0.7241427,suffix:,world:world,dimensions:overworld#
 name:pillagers,x:-1593,z:-2601,y:174,enabled:true,red:0.8368758,green:0.70515794,blue:0.61357033,suffix:,world:world,dimensions:overworld#
+name:Latest Death,x:-77,z:252,y:64,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:world,dimensions:overworld#
