@@ -38,3 +38,4 @@ name:flowers,x:844,z:-2237,y:67,enabled:true,red:0.9052735,green:0.06890136,blue
 name:eddie,x:-714,z:-3055,y:63,enabled:true,red:0.65599877,green:0.6786008,blue:0.60325074,suffix:,world:world,dimensions:overworld#
 name:ashton,x:-765,z:-3037,y:92,enabled:true,red:0.3399548,green:0.4904458,blue:0.78183097,suffix:,world:world,dimensions:overworld#
 name:oak,x:1376,z:-1192,y:80,enabled:true,red:0.37328017,green:0.39312446,blue:0.7241427,suffix:,world:world,dimensions:overworld#
+name:pillagers,x:-1593,z:-2601,y:174,enabled:true,red:0.8368758,green:0.70515794,blue:0.61357033,suffix:,world:world,dimensions:overworld#
