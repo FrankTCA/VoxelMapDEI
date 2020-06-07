@@ -1,0 +1,5 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:spawn,x:-12,z:45,y:72,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:portal,x:96,z:13,y:70,enabled:true,red:0.29244083,green:0.5612648,blue:0.53497165,suffix:,world:,dimensions:overworld#
