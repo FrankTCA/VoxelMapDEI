@@ -3,3 +3,6 @@ oldNorthWorlds:
 seeds:
 name:spawn,x:-12,z:45,y:72,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:overworld#
 name:portal,x:96,z:13,y:70,enabled:true,red:0.29244083,green:0.5612648,blue:0.53497165,suffix:,world:,dimensions:overworld#
+name:tin,x:10,z:136,y:75,enabled:true,red:0.32311457,green:0.43244076,blue:0.04972142,suffix:,world:,dimensions:overworld#
+name:nym,x:80,z:13,y:72,enabled:true,red:0.75640386,green:0.104311645,blue:0.11234534,suffix:,world:,dimensions:overworld#
+name:mountain,x:-209,z:196,y:71,enabled:true,red:0.43020326,green:0.1550461,blue:0.029907286,suffix:,world:,dimensions:overworld#
