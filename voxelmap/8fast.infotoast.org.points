@@ -6,3 +6,6 @@ name:portal,x:96,z:13,y:70,enabled:true,red:0.29244083,green:0.5612648,blue:0.53
 name:tin,x:10,z:136,y:75,enabled:true,red:0.32311457,green:0.43244076,blue:0.04972142,suffix:,world:,dimensions:overworld#
 name:nym,x:80,z:13,y:72,enabled:true,red:0.75640386,green:0.104311645,blue:0.11234534,suffix:,world:,dimensions:overworld#
 name:mountain,x:-209,z:196,y:71,enabled:true,red:0.43020326,green:0.1550461,blue:0.029907286,suffix:,world:,dimensions:overworld#
+name:fortress,x:1136,z:2440,y:55,enabled:true,red:0.9183299,green:0.31024128,blue:0.22747445,suffix:,world:,dimensions:the_nether#
+name:sheapsportal,x:864,z:1888,y:61,enabled:true,red:0.95295984,green:0.3574885,blue:0.17659992,suffix:,world:,dimensions:the_nether#
+name:sheapsportal,x:885,z:1859,y:64,enabled:true,red:0.8083489,green:0.24287665,blue:0.7318197,suffix:,world:,dimensions:overworld#
