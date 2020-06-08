@@ -2,4 +2,7 @@ subworlds:
 oldNorthWorlds:
 seeds:
 name:spawn,x:-12,z:45,y:72,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:overworld#
-name:portal,x:96,z:13,y:70,enabled:true,red:0.29244083,green:0.5612648,blue:0.53497165,suffix:,world:,dimensions:overworld#
+name:portal,x:96,z:13,y:70,enabled:false,red:0.29244083,green:0.5612648,blue:0.53497165,suffix:,world:,dimensions:overworld#
+name:test,x:0,z:26,y:65,enabled:false,red:0.012925804,green:0.2868111,blue:0.6395847,suffix:,world:,dimensions:overworld#
+name:End,x:999988,z:47,y:74,enabled:true,red:0.6745098,green:0.05490196,blue:0.003921569,suffix:like,world:,dimensions:the_nether#overworld#the_end#
+name:END,x:-12,z:1000000,y:74,enabled:true,red:0.84705883,green:0.06666667,blue:0.0,suffix:like,world:,dimensions:the_nether#overworld#the_end#
