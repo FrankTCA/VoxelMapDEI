@@ -11,4 +11,4 @@ name:sheapsportal,x:864,z:1888,y:61,enabled:true,red:0.95295984,green:0.3574885,
 name:sheapsportal,x:885,z:1859,y:64,enabled:true,red:0.8083489,green:0.24287665,blue:0.7318197,suffix:,world:,dimensions:overworld#
 name:stronghold,x:1903,z:431,y:14,enabled:true,red:0.9687132,green:0.65743,blue:0.9880434,suffix:,world:,dimensions:overworld#
 name:EndCity,x:-1813,z:730,y:60,enabled:true,red:0.24974972,green:0.18870503,blue:0.43690002,suffix:,world:,dimensions:the_end#
-name:Latest Death,x:-1173,z:662,y:58,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:the_end#
+name:Latest Death,x:1632,z:4048,y:35,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:the_nether#
