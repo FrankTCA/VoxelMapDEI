@@ -39,5 +39,4 @@ name:ashton,x:-765,z:-3037,y:92,enabled:true,red:0.3399548,green:0.4904458,blue:
 name:oak,x:1376,z:-1192,y:80,enabled:true,red:0.37328017,green:0.39312446,blue:0.7241427,suffix:,world:world,dimensions:overworld#
 name:pillagers,x:-1593,z:-2601,y:174,enabled:true,red:0.8368758,green:0.70515794,blue:0.61357033,suffix:,world:world,dimensions:overworld#
 name:kevin,x:-926,z:-3268,y:63,enabled:true,red:0.51606804,green:0.8950416,blue:0.2903338,suffix:,world:world,dimensions:overworld#
-name:Latest Death,x:-74,z:241,y:55,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:world,dimensions:overworld#
 name:n,x:-35,z:399,y:105,enabled:true,red:0.011743188,green:0.5083031,blue:0.87527496,suffix:,world:world,dimensions:overworld#
