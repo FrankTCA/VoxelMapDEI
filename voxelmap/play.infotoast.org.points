@@ -41,3 +41,4 @@ name:pillagers,x:-1593,z:-2601,y:174,enabled:true,red:0.8368758,green:0.70515794
 name:kevin,x:-926,z:-3268,y:63,enabled:true,red:0.51606804,green:0.8950416,blue:0.2903338,suffix:,world:world,dimensions:overworld#
 name:doxx,x:479,z:1770,y:64,enabled:true,red:0.8010046,green:0.6308198,blue:0.6503218,suffix:,world:world,dimensions:overworld#
 name:Latest Death,x:-115,z:-36,y:3,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:overworld#
+name:beemland,x:126,z:-986,y:71,enabled:true,red:0.26481378,green:0.49610502,blue:0.16749805,suffix:,world:world,dimensions:overworld#
